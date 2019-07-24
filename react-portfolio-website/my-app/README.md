@@ -1,5 +1,6 @@
-Portfolio-Website made with React Version 16.8.6 and React-MDL 
 
+## Portfolio-Website made with React Version 16.8.6 and React-MDL 
+This Website allows Developers to link projects, show resume and get easily in touch.
 
 
 
