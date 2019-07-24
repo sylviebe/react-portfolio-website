@@ -53,7 +53,7 @@ class Resume extends Component {
                             schoolName="Cologne University"
                             schoolDescription="Nam quam nunc, blandit vel, luctus pulvinar, hendrerit id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut libero venenatis faucibus. Nullam quis ante."
                         />
-                        <hr style={{ borderTop: '3px solid #e22947' }} />
+                        <hr style={{ borderTop: '3px solid #833fb2' }} />
                         <h2>Experience</h2>
                         <Experience
                             startYear={2015}
@@ -67,7 +67,7 @@ class Resume extends Component {
                             jobName="Good Job"
                             jobDescription="Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. "
                         />
-                        <hr style={{ borderTop: '3px solid #e22947' }} />
+                        <hr style={{ borderTop: '3px solid #833fb2' }} />
                         <h2>Skills</h2>
                         <Skills skill="Javascript" progress={60} />
                         <Skills skill="HTML" progress={60} />
