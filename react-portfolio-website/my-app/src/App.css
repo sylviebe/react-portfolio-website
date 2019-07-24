@@ -76,3 +76,49 @@
 .projects-grid {
     display: flex;
 }
+
+.contact-body {
+    margin: auto;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    padding-top: 2em;
+}
+
+.contact-grid {
+    margin-bottom: 20px;
+    width: 80%;
+    height: 550px;
+    text-align: center;
+    justify-content: center;
+    background: white;
+    color: black;
+}
+
+.contact-grid h2 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
+}
+
+.contact-grid p {
+    font-family: 'Oxygen', sans-serif;
+    font-weight: bold;
+}
+
+.contact-grid hr {
+    margin: auto;
+    width: 50%;
+    border-top: 5px dotted black;
+}
+
+.resume-right-col {
+    padding: 2em;
+    background: #27221f;
+    color: white;
+}
+
+.contact-list i {
+    padding-right: 6rem;
+    font-size: 50px;
+}
